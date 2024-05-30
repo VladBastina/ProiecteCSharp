@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WhiteWins>2</WhiteWins>
+  <BlackWins>2</BlackWins>
+  <MaxPiecesWin>10</MaxPiecesWin>
+</Statistics>

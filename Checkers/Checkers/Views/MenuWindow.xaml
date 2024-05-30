@@ -1,0 +1,34 @@
+﻿<Window x:Class="Checkers.Views.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Checkers.Views"
+        mc:Ignorable="d"
+        Title="MenuWindow" Height="450" Width="800">
+    <Grid Height="450" Width="800" Background="Beige">
+        <!-- Prima coloană ocupă jumătatea din stânga -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Label-ul este poziționat pe prima jumătate (stânga) -->
+        <Label Grid.Column="0">
+            <Label.Background>
+                <ImageBrush ImageSource="C:\Users\vladb\VisualStudio\Checkers\Checkers\Resources\logo.jpg" />
+            </Label.Background>
+        </Label>
+        <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="playButton" Width="100" Height="50" Click="playButton_Click">
+                <Image Source="C:\Users\vladb\VisualStudio\Checkers\Checkers\Resources\play.png" Stretch="Fill" RenderTransformOrigin="0.565,0.356" />
+            </Button>
+            <Button x:Name="statisticsButton" Content="View Statistics" Height="30" Click="statisticsButton_Click"/>
+            <Button x:Name="openGameButton" Content="Open a saved game" Height="30" Click="openGameButton_Click" />
+            <WrapPanel>
+                <RadioButton x:Name="multipleMovesButton" Checked="multipleMovesButton_Checked" Unchecked="multipleMovesButton_Unchecked"></RadioButton>
+                <TextBlock Text="Select if you want multiple moves"></TextBlock>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>
