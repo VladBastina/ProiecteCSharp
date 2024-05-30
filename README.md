@@ -1,46 +1,11 @@
-# Joc de Dame
+# Introducere în Proiectele WPF
 
-## Descriere
+De-a lungul anilor, tehnologia Windows Presentation Foundation (WPF) a devenit una dintre cele mai populare platforme pentru dezvoltarea aplicațiilor desktop pe platforma Windows. Cu puterea sa de a crea interfețe grafice bogate și interactive, WPF oferă dezvoltatorilor un cadru flexibil și puternic pentru a crea aplicații moderne și atractive.
 
-Acest proiect implementează un joc de dame folosind C# și WPF, urmând design pattern-ul MVVM (Model-View-ViewModel). Jocul include două seturi de piese (albe și roșii), o tablă de 8x8 și respectă regulile standard ale jocului de dame. Aplicația permite mutări simple, sărituri peste adversar și sărituri multiple (opțional). De asemenea, suportă salvarea și încărcarea stării jocului și menține statistici despre câștigători.
+Proiectele WPF sunt aplicații desktop care utilizează tehnologia WPF pentru a crea interfețe grafice utilizator (UI) complexe și sofisticate. Aceste proiecte pot varia de la aplicații de productivitate și instrumente de administrare la jocuri și aplicații multimedia. Cu o gamă largă de caracteristici și funcționalități, WPF permite dezvoltatorilor să creeze aplicații personalizate și captivante care îndeplinesc nevoile și cerințele utilizatorilor.
 
-## Funcționalități
+Prin intermediul limbajului de programare C# sau VB.NET și a unor instrumente precum Microsoft Visual Studio, dezvoltatorii pot crea rapid și eficient proiecte WPF. Cu acces facil la controale, stiluri, șabloane și alte resurse, WPF oferă un mediu de dezvoltare robust și productiv pentru construirea aplicațiilor desktop.
 
-1. **Mutări și Capturi:**
-   - Mutare simplă
-   - Săritură peste adversar
-   - Sărituri multiple (opțional)
-   - Transformare în "rege" la capătul opus al tablei
+Indiferent dacă sunt folosite pentru a crea aplicații de administrare a datelor, aplicații de vizualizare și editare a conținutului multimedia sau aplicații de divertisment, proiectele WPF pot oferi o experiență de utilizare ușor de înțeles, interactivă și captivantă. Prin combinarea puterii tehnologiei WPF cu creativitatea și expertiza dezvoltatorilor, posibilitățile pentru proiectele WPF sunt nesfârșite.
 
-2. **Interfața Utilizator:**
-   - Tabla de joc
-   - Indică vizual jucătorul curent
-   - Afișează numărul de piese rămase pentru fiecare jucător
-
-3. **Finalul Jocului:**
-   - Jocul se termină când un jucător nu mai are piese
-   - Afișează un mesaj cu câștigătorul
-
-4. **Meniu:**
-   - **New Game:** Începe un joc nou
-   - **Save:** Salvează starea curentă a jocului
-   - **Open:** Încarcă un joc salvat
-   - **Allow Multiple Jump:** Activează/dezactivează săriturile multiple
-   - **Statistics:** Afișează statistici despre câștigători și maximul de piese rămase
-
-## Ghid de Utilizare
-
-1. **Pornirea unui joc nou:**
-   - Din meniul `File`, selectează `New Game`.
-
-2. **Salvarea jocului curent:**
-   - Din meniul `File`, selectează `Save` și alege locația de salvare.
-
-3. **Încărcarea unui joc salvat:**
-   - Din meniul `File`, selectează `Open` și alege fișierul de joc salvat anterior.
-
-4. **Activarea săriturilor multiple:**
-   -   - Din meniul `File`, selectează `Allow Multiple Jump` pentru a activa sau dezactiva opțiunea de sărituri multiple.
-
-5. **Vizualizarea statisticilor:**
-   - Din meniul `File`, selectează `Statistics` pentru a vedea statistici despre câștigătorii anteriori și maximul de piese rămase ale câștigătorului.
+Acest repository conține trei proiecte WPF distincte, care pot fi vizualizate pe ramuri separate (branch-uri) în cadrul acestui repository.
