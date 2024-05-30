@@ -1,0 +1,58 @@
+﻿<Window x:Class="SuperMarket_Gestiune.Views.ProductAddDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Product" Height="450" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Nume Produs -->
+        <Label Content="Nume Produs:" VerticalAlignment="Center"/>
+        <TextBox x:Name="NumeProdusTextBox" Grid.Row="0" Margin="120,0,0,0"/>
+
+        <!-- Cod Bare -->
+        <Label Content="Cod Bare:" Grid.Row="1" VerticalAlignment="Center"/>
+        <TextBox x:Name="CodBareTextBox" Grid.Row="1" Margin="120,0,0,0"/>
+
+        <!-- Nume Categorie -->
+        <Label Content="Nume Categorie:" Grid.Row="2" VerticalAlignment="Center"/>
+        <TextBox x:Name="NumeCategorieTextBox" Grid.Row="2" Margin="120,0,0,0"/>
+
+        <!-- Nume Producator -->
+        <Label Content="Nume Producator:" Grid.Row="3" VerticalAlignment="Center"/>
+        <TextBox x:Name="NumeProducatorTextBox" Grid.Row="3" Margin="120,0,0,0"/>
+
+        <!-- Cantitate -->
+        <Label Content="Cantitate:" Grid.Row="4" VerticalAlignment="Center"/>
+        <TextBox x:Name="CantitateTextBox" Grid.Row="4" Margin="120,0,0,0"/>
+
+        <!-- Unitate Masura -->
+        <Label Content="Unitate Masura:" Grid.Row="5" VerticalAlignment="Center"/>
+        <TextBox x:Name="UnitateMasuraTextBox" Grid.Row="5" Margin="120,0,0,0"/>
+
+        <!-- Data Aprovizionarii -->
+        <Label Content="Data Aprovizionarii:" Grid.Row="6" VerticalAlignment="Center"/>
+        <DatePicker x:Name="DataAprovizionariiDatePicker" Grid.Row="6" Margin="120,0,0,0"/>
+
+        <!-- Data Expirarii -->
+        <Label Content="Data Expirarii:" Grid.Row="7" VerticalAlignment="Center"/>
+        <DatePicker x:Name="DataExpirariiDatePicker" Grid.Row="7" Margin="120,0,0,0"/>
+
+        <!-- Pret Vanzare -->
+        <Label Content="Pret Achizitie:" Grid.Row="8" VerticalAlignment="Center"/>
+        <TextBox x:Name="PretVanzareTextBox" Grid.Row="8" Margin="120,0,0,0"/>
+
+        <!-- OK Button -->
+        <Button Content="OK" Grid.Row="9" Width="75" HorizontalAlignment="Right" Margin="0,10,0,0" Click="OK_Click"/>
+    </Grid>
+</Window>

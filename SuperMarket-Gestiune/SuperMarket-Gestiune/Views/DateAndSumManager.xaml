@@ -1,0 +1,31 @@
+﻿<Window x:Class="SuperMarket_Gestiune.Views.DateAndSumManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperMarket_Gestiune.Views"
+        xmlns:ctx ="clr-namespace:SuperMarket_Gestiune.ViewModels"
+        mc:Ignorable="d"
+        Title="DateAndSumManager" Height="450" Width="800">
+    <Window.DataContext>
+        <ctx:BonuriVM />
+    </Window.DataContext>
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="BonuriDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" Grid.Row="0" Margin="0,0,0,20" ItemsSource="{Binding dateAndSums}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Data" Binding="{Binding Date}" Width="*"/>
+                <DataGridTextColumn Header="SumaIncasata" Binding="{Binding Sum}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Buttons -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button Content="Inapoi" Width="100" Margin="10" Click="Back_Click" Style="{StaticResource MenuButtonStyle}"/>
+        </StackPanel>
+    </Grid>
+</Window>

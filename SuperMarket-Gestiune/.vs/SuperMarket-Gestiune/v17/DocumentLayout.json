@@ -1,0 +1,623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\dateandsummanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\dateandsummanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\usermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\usermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\businesslogiclayer\\bonuribll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\businesslogiclayer\\bonuribll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\viewmodels\\bonurivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\viewmodels\\bonurivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\casiermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\casiermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\data access layer\\bonuridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\data access layer\\bonuridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\bonurimanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\bonurimanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\casiermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\casiermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\data access layer\\produsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\data access layer\\produsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\produsmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\produsmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\viewmodels\\produsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\viewmodels\\produsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\businesslogiclayer\\produsbbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\businesslogiclayer\\produsbbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\bonurimanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\bonurimanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\receiptmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\receiptmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\receiptmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\receiptmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\viewmodels\\detaliibonurivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\viewmodels\\detaliibonurivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\viewmodels\\categoriivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\viewmodels\\categoriivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\businesslogiclayer\\detaliibonuribll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\businesslogiclayer\\detaliibonuribll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\data access layer\\detaliibonuridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\data access layer\\detaliibonuridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\entity layer\\detaliibonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\entity layer\\detaliibonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\data access layer\\categoriidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\data access layer\\categoriidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\usermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\usermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\data access layer\\producatoridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\data access layer\\producatoridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\entity layer\\bonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\entity layer\\bonuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\producatormanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\producatormanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\datepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\datepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\produsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\produsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\producatormanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\producatormanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\adminmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\dateandsummanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\dateandsummanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\datepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\datepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\entity layer\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\entity layer\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\dateandsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\dateandsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\businesslogiclayer\\categoriibbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\businesslogiclayer\\categoriibbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\categorymanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\categorymanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\views\\categorymanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\views\\categorymanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|c:\\users\\vladb\\visualstudio\\supermarket-gestiune\\supermarket-gestiune\\models\\entity layer\\basepropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA838F-A8CF-47BC-B8F1-8A02DA401B6B}|SuperMarket-Gestiune\\SuperMarket-Gestiune.csproj|solutionrelative:supermarket-gestiune\\models\\entity layer\\basepropertychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetaliiBonuriVM.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\DetaliiBonuriVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\ViewModels\\DetaliiBonuriVM.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\DetaliiBonuriVM.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\ViewModels\\DetaliiBonuriVM.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:12:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetaliiBonuriBLL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\DetaliiBonuriBLL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\DetaliiBonuriBLL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\DetaliiBonuriBLL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\DetaliiBonuriBLL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:10:02.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetaliiBonuriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\DetaliiBonuriDAL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Data Access Layer\\DetaliiBonuriDAL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\DetaliiBonuriDAL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Data Access Layer\\DetaliiBonuriDAL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:04:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceiptManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ReceiptManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ReceiptManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ReceiptManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ReceiptManager.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:03:40.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReceiptManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ReceiptManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ReceiptManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ReceiptManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ReceiptManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T23:03:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProducatoriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\ProducatoriDAL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Data Access Layer\\ProducatoriDAL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\ProducatoriDAL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Data Access Layer\\ProducatoriDAL.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:55:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProdusManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProdusManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ProdusManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProdusManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ProdusManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T21:36:00.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetaliiBonuri.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\DetaliiBonuri.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Entity Layer\\DetaliiBonuri.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\DetaliiBonuri.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Entity Layer\\DetaliiBonuri.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB0AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:01:08.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasierMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CasierMenu.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\CasierMenu.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CasierMenu.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\CasierMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T20:48:10.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CasierMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CasierMenu.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\CasierMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CasierMenu.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\CasierMenu.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:48:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\AdminMenu.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\AdminMenu.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\AdminMenu.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\AdminMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T20:38:13.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\AdminMenu.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\AdminMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\AdminMenu.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\AdminMenu.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:36:23.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatePickerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:16:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DatePickerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\DatePickerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T20:15:47.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\UserManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\UserManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\UserManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\UserManager.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAArwFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:13:38.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\UserManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\UserManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\UserManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\UserManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T20:13:26.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateAndSumManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:17:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BonuriManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\BonuriManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\BonuriManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\BonuriManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\BonuriManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T19:15:52.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DateAndSumManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\DateAndSumManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T19:14:47.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BonuriVM.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\BonuriVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\ViewModels\\BonuriVM.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\BonuriVM.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\ViewModels\\BonuriVM.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA0wFkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:10:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BonuriBLL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\BonuriBLL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\BonuriBLL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\BonuriBLL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\BonuriBLL.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwEwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:08:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BonuriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\BonuriDAL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Data Access Layer\\BonuriDAL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\BonuriDAL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Data Access Layer\\BonuriDAL.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAArwIEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Utilizatori.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\Utilizatori.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Entity Layer\\Utilizatori.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\Utilizatori.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Entity Layer\\Utilizatori.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DateAndSum.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\DateAndSum.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\DateAndSum.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\DateAndSum.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\DateAndSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:56:57.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CategoryManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\CategoryManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CategoryManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\CategoryManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T17:48:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CategoryManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\CategoryManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\CategoryManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\CategoryManager.xaml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowGIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:48:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriiVM.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\CategoriiVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\ViewModels\\CategoriiVM.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\CategoriiVM.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\ViewModels\\CategoriiVM.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:46:26.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriiBBL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\CategoriiBBL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\CategoriiBBL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\CategoriiBBL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\CategoriiBBL.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:45:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\CategoriiDAL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Data Access Layer\\CategoriiDAL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\CategoriiDAL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Data Access Layer\\CategoriiDAL.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:42:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bonuri.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\Bonuri.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Entity Layer\\Bonuri.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\Bonuri.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Entity Layer\\Bonuri.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:35:58.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BasePropertyChanged.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\BasePropertyChanged.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Entity Layer\\BasePropertyChanged.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Entity Layer\\BasePropertyChanged.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Entity Layer\\BasePropertyChanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:09:28.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProducatorManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProducatorManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ProducatorManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProducatorManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ProducatorManager.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:02:58.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProducatorManager.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProducatorManager.xaml",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ProducatorManager.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProducatorManager.xaml",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ProducatorManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T17:02:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdusVM.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\ProdusVM.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\ViewModels\\ProdusVM.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\ViewModels\\ProdusVM.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\ViewModels\\ProdusVM.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:00:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdusBBL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\ProdusBBL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\ProdusBBL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\ProdusBBL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\BusinessLogicLayer\\ProdusBBL.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAUwIYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:58:33.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdusDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\ProdusDAL.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Models\\Data Access Layer\\ProdusDAL.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Models\\Data Access Layer\\ProdusDAL.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Models\\Data Access Layer\\ProdusDAL.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAArwAMBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:55:22.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdusManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProdusManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\ProdusManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\ProdusManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\ProdusManager.xaml.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAUwMEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:50:24.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BonuriManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\BonuriManager.xaml.cs",
+              "RelativeDocumentMoniker": "SuperMarket-Gestiune\\Views\\BonuriManager.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\SuperMarket-Gestiune\\SuperMarket-Gestiune\\Views\\BonuriManager.xaml.cs",
+              "RelativeToolTip": "SuperMarket-Gestiune\\Views\\BonuriManager.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:03:38.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

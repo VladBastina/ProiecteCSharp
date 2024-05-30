@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AdminMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BonuriManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CasierMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CategoryManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DateAndSumManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DatePickerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProducatorManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductAddDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProdusManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ReceiptManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StockAddDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StockManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserManager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UsersAddDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AdminMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BonuriManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CasierMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CategoryManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DateAndSumManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DatePickerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProducatorManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductAddDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProdusManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ReceiptManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StockAddDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StockManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserManager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UsersAddDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

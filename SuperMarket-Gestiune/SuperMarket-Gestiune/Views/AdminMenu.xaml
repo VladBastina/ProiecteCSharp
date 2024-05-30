@@ -1,0 +1,83 @@
+﻿<Window x:Class="SuperMarket_Gestiune.Views.AdminMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperMarket_Gestiune.Views"
+        mc:Ignorable="d"
+        Title="Admin Menu" Height="1000" Width="800"
+        Background="#f0f0f0">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Title -->
+        <TextBlock Text="Admin Menu" FontSize="36" FontWeight="Bold" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   Margin="0,0,0,20"/>
+
+        <!-- Buttons Grid -->
+        <Grid Grid.Row="1" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- User Management Buttons -->
+            <Button Content="Adaugă Utilizator" Margin="10" Click="AddUser_Click" Grid.Row="0" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Modifică Utilizator" Margin="10" Click="EditUser_Click" Grid.Row="0" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Șterge Utilizator" Margin="10" Click="DeleteUser_Click" Grid.Row="1" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Vizualizează Utilizatori" Margin="10" Click="ViewUsers_Click" Grid.Row="1" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+
+            <!-- Category Management Buttons -->
+            <Button Content="Adaugă Categorie" Margin="10" Click="AddCategory_Click" Grid.Row="2" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Modifică Categorie" Margin="10" Click="EditCategory_Click" Grid.Row="2" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Șterge Categorie" Margin="10" Click="DeleteCategory_Click" Grid.Row="3" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Vizualizează Categorii" Margin="10" Click="ViewCategories_Click" Grid.Row="3" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+
+            <!-- Manufacturer Management Buttons -->
+            <Button Content="Adaugă Producător" Margin="10" Click="AddManufacturer_Click" Grid.Row="4" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Modifică Producător" Margin="10" Click="EditManufacturer_Click" Grid.Row="4" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Șterge Producător" Margin="10" Click="DeleteManufacturer_Click" Grid.Row="5" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Vizualizează Producători" Margin="10" Click="ViewManufacturers_Click" Grid.Row="5" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+
+            <!-- Product Management Buttons -->
+            <Button Content="Adaugă Produs" Margin="10" Click="AddProduct_Click" Grid.Row="6" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Modifică Produs" Margin="10" Click="EditProduct_Click" Grid.Row="6" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Șterge Produs" Margin="10" Click="DeleteProduct_Click" Grid.Row="7" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Vizualizează Produse" Margin="10" Click="ViewProducts_Click" Grid.Row="7" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+
+            <!-- Stock Management Buttons -->
+            <Button Content="Adaugă Stoc" Margin="10" Click="AddStock_Click" Grid.Row="8" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Modifică Stoc" Margin="10" Click="EditStock_Click" Grid.Row="8" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Șterge Stoc" Margin="10" Click="DeleteStock_Click" Grid.Row="9" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Vizualizează Stocuri" Margin="10" Click="ViewStocks_Click" Grid.Row="9" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+
+            <!-- Search and Analytics Buttons -->
+            <Button Content="Cel Mai Mare Bon al Zilei" Margin="10" Click="LargestReceipt_Click" Grid.Row="10" Grid.Column="0" Style="{StaticResource MenuButtonStyle}"/>
+            <!-- Receipt Management Buttons -->
+            <Button Content="Vizualizează Bonuri" Margin="10" Click="ViewReceipts_Click" Grid.Row="10" Grid.Column="1" Style="{StaticResource MenuButtonStyle}"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,81 @@
+﻿<Window x:Class="SuperMarket_Gestiune.Views.CasierMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperMarket_Gestiune.Views"
+        xmlns:ctx="clr-namespace:SuperMarket_Gestiune.ViewModels"
+        mc:Ignorable="d"
+        Title="Casier Menu" Height="600" Width="800"
+        Background="#f0f0f0">
+    <Window.DataContext>
+        <ctx:BonuriVM />
+    </Window.DataContext>
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Title -->
+        <TextBlock Text="Casier Menu" FontSize="36" FontWeight="Bold" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   Grid.ColumnSpan="2" Margin="0,0,0,20"/>
+
+        <!-- Search Section -->
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0,20">
+            <TextBlock Text="Căutare Produs" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Nume:" Width="100" VerticalAlignment="Center"/>
+                <TextBox Width="200" x:Name="ProductNameSearch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Cod de bare:" Width="100" VerticalAlignment="Center"/>
+                <TextBox Width="200" x:Name="BarcodeSearch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Data expirării:" Width="100" VerticalAlignment="Center"/>
+                <DatePicker Width="200" x:Name="ExpirationDateSearch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Producător:" Width="100" VerticalAlignment="Center"/>
+                <TextBox Width="200" x:Name="ManufacturerSearch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Categorie:" Width="100" VerticalAlignment="Center"/>
+                <TextBox Width="200" x:Name="CategorySearch"/>
+            </StackPanel>
+            <Button Content="Caută" Width="100" HorizontalAlignment="Left" Click="SearchProduct_Click" Style="{StaticResource MenuButtonStyle}"/>
+        </StackPanel>
+
+        <!-- Receipt Section -->
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.ColumnSpan="2">
+            <TextBlock Text="Bon de Casa" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+            <ListView Name="ReceiptListView" Height="100" Margin="0,0,0,10" ItemsSource="{Binding ProductsOnCurrentBon}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Produs" DisplayMemberBinding="{Binding ProdusId}" Width="200"/>
+                        <GridViewColumn Header="Cantitate" DisplayMemberBinding="{Binding Cantitate}" Width="100"/>
+                        <GridViewColumn Header="Subtotal" DisplayMemberBinding="{Binding Subtotal}" Width="100"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock Text="Total: " FontSize="16" VerticalAlignment="Center"/>
+                <TextBlock Name="TotalPriceTextBlock" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Text="{Binding SumaIncasata}"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="20,0,0,0">
+            <Button Content="Confirmă Bon" Width="150" Margin="10" Click="ConfirmReceipt_Click" Style="{StaticResource MenuButtonStyle}"/>
+            <Button Content="Resetează Bon" Width="150" Margin="10" Click="ResetReceipt_Click" Style="{StaticResource MenuButtonStyle}"/>
+        </StackPanel>
+    </Grid>
+</Window>
