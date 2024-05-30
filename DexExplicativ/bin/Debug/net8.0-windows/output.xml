@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ObjectToSerialize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Words>
+    <WordClass Category="plante">
+      <Word>fasole</Word>
+      <Explenation>Planta care creste pana la castelul uriasului</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="plante">
+      <Word>morcov</Word>
+      <Explenation>leguma portocalie mancata de Buggs Bunny</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="roboti">
+      <Word>robot</Word>
+      <Explenation>mecanism periculos de distrugere a omenirii</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\robot.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="jucarii">
+      <Word>minge</Word>
+      <Explenation>obiect rotund utilizat pentru diverse jocuri</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\minge.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="scoala">
+      <Word>caiet</Word>
+      <Explenation>obiect utilizat in scoala pentru notarea informatiilor</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="familie">
+      <Word>frate</Word>
+      <Explenation>apartine familiei si are aceeasi parinti ca tine dar este baiat</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="tehnologie">
+      <Word>telefon</Word>
+      <Explenation>obiect utilizat pentru a face apeluri</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="familie">
+      <Word>mama</Word>
+      <Explenation>fiinta materna</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\noImage.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="obiecte">
+      <Word>masa</Word>
+      <Explenation>obiect pe care se pune mancarea</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\masa.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="obiecte">
+      <Word>casa</Word>
+      <Explenation>locul unde locuieste o persoana</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\casa.jpg</ImagePath>
+    </WordClass>
+    <WordClass Category="plante">
+      <Word>castravete</Word>
+      <Explenation>leguma verde pusa in salata</Explenation>
+      <ImagePath>D:\VisualStudio\DexExplicativ\images\castravete.jpg</ImagePath>
+    </WordClass>
+  </Words>
+</ObjectToSerialize>

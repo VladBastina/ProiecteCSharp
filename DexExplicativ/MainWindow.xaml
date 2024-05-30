@@ -1,0 +1,27 @@
+﻿<Window x:Class="DexExplicativ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DexExplicativ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel x:Name="background">
+        <Label Height="100">
+            <Label.Background>
+                <ImageBrush ImageSource="D:/VisualStudio/DexExplicativ/logodex.jpeg"></ImageBrush>
+            </Label.Background>
+        </Label>
+        <StackPanel HorizontalAlignment="Center">
+            <WrapPanel HorizontalAlignment="Center">
+                <TextBlock Text="Username: "></TextBlock>
+                <TextBox x:Name="usernameTextBox" Height="18" Width="150"></TextBox>
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Center">
+                <TextBlock Text="Password: "></TextBlock>
+                <PasswordBox x:Name="passwordTextBox" PasswordChar="●" Height="18" Width="150"></PasswordBox>
+            </WrapPanel>
+            <Button Content="Login" Click="Button_Click"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

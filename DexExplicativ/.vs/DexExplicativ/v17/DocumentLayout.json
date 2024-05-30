@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\centralwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:centralwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\serializationactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:serializationactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\addword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:addword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\addword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:addword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\centralwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:centralwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\objecttoserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:objecttoserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\wordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:wordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\userserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:userserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|c:\\users\\vladb\\visualstudio\\dexexplicativ\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6192161-78BF-44E0-9A8F-0397C7238953}|DexExplicativ.csproj|solutionrelative:gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddWord.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\AddWord.xaml.cs",
+              "RelativeDocumentMoniker": "AddWord.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\AddWord.xaml.cs",
+              "RelativeToolTip": "AddWord.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:34:55.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\GameWindow.xaml",
+              "RelativeDocumentMoniker": "GameWindow.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\GameWindow.xaml",
+              "RelativeToolTip": "GameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T09:42:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CentralWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\CentralWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CentralWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\CentralWindow.xaml.cs",
+              "RelativeToolTip": "CentralWindow.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:21:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CentralWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\CentralWindow.xaml",
+              "RelativeDocumentMoniker": "CentralWindow.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\CentralWindow.xaml",
+              "RelativeToolTip": "CentralWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T09:40:00.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddWord.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\AddWord.xaml",
+              "RelativeDocumentMoniker": "AddWord.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\AddWord.xaml",
+              "RelativeToolTip": "AddWord.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T09:31:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordClass.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\WordClass.cs",
+              "RelativeDocumentMoniker": "WordClass.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\WordClass.cs",
+              "RelativeToolTip": "WordClass.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:30:26.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectToSerialize.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\ObjectToSerialize.cs",
+              "RelativeDocumentMoniker": "ObjectToSerialize.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\ObjectToSerialize.cs",
+              "RelativeToolTip": "ObjectToSerialize.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswGQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:15:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerializationActions.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\SerializationActions.cs",
+              "RelativeDocumentMoniker": "SerializationActions.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\SerializationActions.cs",
+              "RelativeToolTip": "SerializationActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:42:22.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T11:38:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserSerialize.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\UserSerialize.cs",
+              "RelativeDocumentMoniker": "UserSerialize.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\UserSerialize.cs",
+              "RelativeToolTip": "UserSerialize.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:29:08.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\GameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vladb\\VisualStudio\\DexExplicativ\\GameWindow.xaml.cs",
+              "RelativeToolTip": "GameWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA1wEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:44:47.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
