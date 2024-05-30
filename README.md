@@ -1,4 +1,4 @@
-# Documentație pentru Aplicație Dicționar Explicativ
+# Aplicație Dicționar Explicativ
 
 ## Introducere
 
